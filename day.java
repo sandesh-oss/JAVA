@@ -4,7 +4,6 @@ public class day{
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter No");
         int day = sc.nextInt();
-        //int day;
         switch(day){
             case 1: 
             System.out.println("Monday"); 
