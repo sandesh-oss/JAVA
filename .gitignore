@@ -1,0 +1,4 @@
+*.class
+/Java-ClassFiles/
+.vscode/
+bin/
